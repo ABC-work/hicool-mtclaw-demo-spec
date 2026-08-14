@@ -11,6 +11,8 @@
 1. [`BOT_PROMPT.md`](BOT_PROMPT.md) - 总实施 Prompt
 2. [`CONTRACT.md`](CONTRACT.md) - 四个 Agent 的统一 JSON 协议
 3. [`ACCEPTANCE.md`](ACCEPTANCE.md) - 演示和验收清单
+4. [`P0_MTCLAW_DEPLOYMENT_PROMPT.md`](P0_MTCLAW_DEPLOYMENT_PROMPT.md) - 真实 MTClaw P0 部署
+5. [`FOUR_AGENT_TEST_AND_RECORDING_PROMPT.md`](FOUR_AGENT_TEST_AND_RECORDING_PROMPT.md) - 四 Agent 测试与备用视频录制
 
 按 `BOT_PROMPT.md` 执行，不要扩大范围。
 
